@@ -14,3 +14,8 @@ _.isEqual(obj1, obj2)
 -->_.isEqual() method is the best way to compare two JSON object.
 
 This will not consider the order of the keys in object and check for the equality of object.
+
+
+
+Note: your given url i.e https://restcountries.eu/rest/v2/al is showing output as this url has been blocked.
+      so i used this url https://restcountries.com/v3/all 
